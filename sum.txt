@@ -1,4 +1,4 @@
 a=10
-b=2
-c=3
-s=a+b+c
+b=20
+s=a+b
+print(s)
